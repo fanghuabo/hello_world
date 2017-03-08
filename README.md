@@ -1,2 +1,2 @@
 # hello_world
-start to learn github
+hello github
