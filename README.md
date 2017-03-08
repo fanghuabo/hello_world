@@ -1,3 +1,2 @@
 # hello_world
-hello github
-my name is fanghuabo.
+hello github,my name is fanghuabo.
